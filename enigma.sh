@@ -79,7 +79,7 @@ if [ $pilih = 5 ]
 then
 clear
 figlet -f slant "S E C. . ."|lolcat
-git clone git clone https://github.com/4L13199/meTAInstall
+git clone https://github.com/4L13199/meTAInstall
 cd meTAInstall
 chmod +x *
 fi
