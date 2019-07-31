@@ -58,10 +58,10 @@ then
 clear
 figlet -f slant "S E C. . ."|lolcat
 sleep 2
-git clone https://github.com/4L13199/LITESPAM.git
-cd LITESPAM
+git clone https://github.com/4L13199/LITESCRIPT
+cd LITESCRIPT
 chmod +x *
-sh LITESPAM.sh
+python2 LITESCRIPT.py
 fi
 
 if [ $pilih = 4 ]
@@ -111,7 +111,6 @@ pip install --upgrade pip
 pkg install curl
 pkg install ruby
 pkg install gem
-pkg install node.js
 gem install lolcat
 pkg install git
 pkg install php
