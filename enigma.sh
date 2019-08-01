@@ -48,9 +48,8 @@ clear
 figlet -f slant "S E C. . ."|lolcat
 sleep 2
 git clone https://github.com/thelinuxchoice/locator.git
-cd enigma-installer
+cd locator
 chmod +x *
-./locator
 bash locator.sh
 fi
 
