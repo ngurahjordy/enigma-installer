@@ -50,7 +50,7 @@ sleep 2
 git clone https://github.com/thelinuxchoice/locator.git
 cd locator
 chmod +x *
-./locator
+cd locator
 fi
 
 if [ $pilih = 3 ]
