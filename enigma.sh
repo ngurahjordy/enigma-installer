@@ -48,9 +48,10 @@ clear
 figlet -f slant "S E C. . ."|lolcat
 sleep 2
 git clone https://github.com/thelinuxchoice/locator.git
-cd locator
+cd enigma-installer
 chmod +x *
-cd locator
+./locator
+bash locator.sh
 fi
 
 if [ $pilih = 3 ]
