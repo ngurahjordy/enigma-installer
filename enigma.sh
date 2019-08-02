@@ -79,6 +79,7 @@ if [ $pilih = 5 ]
 then
 clear
 figlet -f slant "S E C. . ."|lolcat
+sleep 2
 git clone https://github.com/4L13199/meTAInstall
 cd meTAInstall
 chmod +x *
@@ -88,6 +89,7 @@ if [ $pilih = 6 ]
 then
 clear
 figlet -f slant "S E C. . ."|lolcat
+sleep 2
 git clone https://github.com/ikiganteng/bot-igeh.git
 cd bot-igeh
 unzip node_modules.zip
@@ -120,13 +122,12 @@ pkg install nano
 figlet -f slant " D O N E "|lolcat
 fi
 
-if [ $pilih = X ] || [ $pilih = x ]
+if [ $pilih = E ] || [ $pilih = e ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
-sleep 2
-echo "Ada pertanyaan ? Just Direct Message I.G"
 sleep 4
+echo "Ada pertanyaan ? Just Direct Message I.G"
 exit
 fi
 
