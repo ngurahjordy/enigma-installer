@@ -35,7 +35,7 @@ read -p"└──> " pilih
 if [ $pilih = 1 ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 git clone https://github.com/Screetsec/LALIN.git
 cd LALIN
@@ -45,7 +45,7 @@ fi
 if [ $pilih = 2 ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 git clone https://github.com/thelinuxchoice/locator.git
 cd locator
@@ -56,7 +56,7 @@ fi
 if [ $pilih = 3 ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 git clone https://github.com/4L13199/LITESCRIPT
 cd LITESCRIPT
@@ -67,7 +67,7 @@ fi
 if [ $pilih = 4 ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 git clone https://github.com/TheMagizz/DarkPremium
 cd DarkPremium
@@ -78,7 +78,7 @@ fi
 if [ $pilih = 5 ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 git clone https://github.com/4L13199/meTAInstall
 cd meTAInstall
@@ -88,7 +88,7 @@ fi
 if [ $pilih = 6 ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 git clone https://github.com/ikiganteng/bot-igeh.git
 cd bot-igeh
@@ -99,7 +99,7 @@ fi
 if [ $pilih = I ] || [ $pilih = i ]
 then
 clear
-figlet -f slant "S E C. . ."|lolcat
+figlet -f slant "S E C . . ."|lolcat
 sleep 2
 pkg update && pkg upgrade
 pkg install python2
@@ -127,7 +127,7 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 4
-echo "Ada pertanyaan ? Just Direct Message I.G"
+echo $i"Ada pertanyaan ? Just Direct Message I.G"
 exit
 fi
 
