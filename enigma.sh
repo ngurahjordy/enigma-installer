@@ -126,8 +126,10 @@ if [ $pilih = E ] || [ $pilih = e ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
+sleep 3
+echo $me"Ada pertanyaan ? Just Direct Message I.G"
 sleep 4
-echo $i"Ada pertanyaan ? Just Direct Message I.G"
+echo $me"TERIMA KASIH"
 exit
 fi
 
