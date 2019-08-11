@@ -14,13 +14,14 @@ echo $ku" |"$me" INSTAGRAM"$cy" ~>"$pu" ngurahjordi"$ku"                |"
 echo $ku" |"$i"                                  ENJOY"$ku"  |"
 echo $ku"["$i"•"$ku"]"$ku"───────────────────────────────────────"$ku"["$i"•"$ku"]"
 echo
-echo
 echo $ku"["$i"•"$ku"]"$ku"───────────────────────────────────────"$ku"["$i"•"$ku"]"
 echo $ku" |"$me" 1"$i"."$cy" LALIN"$me"         {"$cy"Root"$me"}"$ku"                 |"
 echo $ku" |"$me" 2"$i"."$cy" LOCATOR"$ku"                              |"
 echo $ku" |"$me" 3"$i"."$cy" DARK-FB"$me"       {"$cy"Premium"$me"}"$ku"              |"
 echo $ku" |"$me" 4"$i"."$cy" BUG HUNTER"$ku"                           |"
-echo $ku"["$i"•"$ku"]"$ku"""$ku"["$i"•"$ku"]"
+echo $ku"["$i"•"$ku"]"$ku"───────────────────────────────────────"$ku"["$i"•"$ku"]"
+echo
+echo $ku"["$i"•"$ku"]"$ku"───────────────────────────────────────"$ku"["$i"•"$ku"]"
 echo $ku" |"$me" 5"$i"."$cy" LITESCRIPT"$me"    {"$cy"Daface"$me"}"$ku"               |"
 echo $ku" |"$me" 6"$i"."$cy" METASPLOIT"$ku"                           |"
 echo $ku" |"$me" 7"$i"."$cy" FOLLOWER INSTAGRAM"$ku"                   |"
@@ -165,4 +166,3 @@ figlet -f slant "TERIMA KASIH"|lolcat
 sleep 3
 exit
 fi
-
