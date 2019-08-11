@@ -20,9 +20,8 @@ echo $i" |"$me" 1"$i"."$ku" LALIN"$me"         {"$ku"Root"$me"}"$i"             
 echo $i" |"$me" 2"$i"."$ku" LOCATOR"$i"                              |"
 echo $i" |"$me" 3"$i"."$ku" LITESCRIPT"$me"    {"$ku"Daface"$me"}"$i"               |"
 echo $i" |"$me" 4"$i"."$ku" DARK-FB"$me"       {"$ku"Premium"$me"}"$i"              |"
-echo $i" |"$me" 5"$i"."$ku" YahooCloning"$i"                         |"
-echo $i" |"$me" 6"$i"."$ku" METASPLOIT"$i"                           |"
-echo $i" |"$me" 7"$i"."$ku" FOLLOWER INSTAGRAM"$i"                   |"
+echo $i" |"$me" 5"$i"."$ku" METASPLOIT"$i"                           |"
+echo $i" |"$me" 6"$i"."$ku" FOLLOWER INSTAGRAM"$i"                   |"
 echo $i"["$me"•"$i"]"$i"───────────────────────────────────────"$i"["$me"•"$i"]"
 echo $i"["$me"•"$i"]"$i"───────────────────────────────────────"$i"["$me"•"$i"]"
 echo $i" |"$me" I"$i"."$ku" INSTALL BAHAN"$me" {"$ku"Full"$me"}"$i"                 |"
@@ -81,23 +80,12 @@ then
 clear
 figlet -f slant "S E C . . ."|lolcat
 sleep 2
-git clone https://github.com/wahyuandhika/YahooCloning
-cd YahooCloning
-chmod +x cloning.py
-python2 cloning.py
-fi
-
-if [ $pilih = 6 ]
-then
-clear
-figlet -f slant "S E C . . ."|lolcat
-sleep 2
 git clone https://github.com/4L13199/meTAInstall
 cd meTAInstall
 chmod +x *
 fi
 
-if [ $pilih = 7 ]
+if [ $pilih = 6 ]
 then
 clear
 figlet -f slant "S E C . . ."|lolcat
