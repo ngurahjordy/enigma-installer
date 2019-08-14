@@ -161,7 +161,6 @@ figlet -f slant "E X I T"|lolcat
 sleep 3
 echo $me"Ada pertanyaan ? Just Direct Message I.G"
 sleep 4
-figlet -f slant "TERIMA KASIH"|lolcat
-sleep 3
-exit
+figlet -f slant "MAKASI"|lolcat
+sleep 2
 fi
